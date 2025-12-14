@@ -1,2 +1,0 @@
-# Chocobo Hot and Cold - Chocographer
-# Activation-only text patch
